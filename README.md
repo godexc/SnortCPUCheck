@@ -4,8 +4,11 @@ A Crude Python Script to Check SnortCPUs
 Requirements:
 
   -Python 2.7 +
+  
   -Paramiko
+  
   -Connectivity to the Firepower Threat Defense Device.
+  
   -Change the hostname, username and password variables on the code
 
 That the script has been created in order to track CPU utilization on a customer. 
