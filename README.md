@@ -53,3 +53,6 @@ test_str = ("> show asp inspect-dp snort\n"
             " \n"
             ">")
             
+# Things to be aware of
+
+- Regex MUST BE CHANGED according to the "show asp inspect-dp snort" output as the number of CPUs assigned Snort Engine varies based on platform.
